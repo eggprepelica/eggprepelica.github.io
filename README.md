@@ -4,9 +4,8 @@
 
 
 
-
-# Pozdrav svima, učimo napraviti web stranicu od početka do kraja - kodiranje
-
+# Pozdrav svima, učimo napraviti web stranicu od početka do kraja
 
 
-# Hello everyone, we are learning how to make a website from start to finish - 'coding'
+
+# Hello everyone, we are learning how to make a website from start to finish
